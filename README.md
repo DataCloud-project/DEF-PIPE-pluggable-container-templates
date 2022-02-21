@@ -4,3 +4,5 @@
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # DEF-PIPE Pluggable container templates
+
+The set of pluggable container templates are a repository of pre-defined templates supporting defining containerized steps in different programming languages that can be used to implement a pipeline. 
